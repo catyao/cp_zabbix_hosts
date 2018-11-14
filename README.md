@@ -2,11 +2,11 @@
 python环境3.x
 
 文件说明：
-cp_zabbix_hosts.py  拷贝zabbix主机的脚本
-customfunction.py   自定义function
-zabbix_api.py       zabbix api封装
-zabbix_login.py     zabbix登录封装
-config.ini.default  配置文件，实际使用时候请把文件名改成config.ini.yum
+cp_zabbix_hosts.py  拷贝zabbix主机的脚本<br>
+customfunction.py   自定义function<br>
+zabbix_api.py       zabbix api封装<br>
+zabbix_login.py     zabbix登录封装<br>
+config.ini.default  配置文件，实际使用时候请把文件名改成config.ini.yum<br>
 
 
 
