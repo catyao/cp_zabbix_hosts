@@ -1,0 +1,4 @@
+[zabbix_server_conf]  
+zabbix_api_url = "http://172.31.56.140/zabbix/api_jsonrpc.php"
+username       = "Admin"
+password       = "zabbix"
